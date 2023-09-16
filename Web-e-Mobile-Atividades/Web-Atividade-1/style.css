@@ -1,0 +1,9 @@
+table {
+    width: 300px;
+    }
+    td {
+    background-color: blueviolet;
+    }
+    a:hover {
+    border: dashed;
+    }
