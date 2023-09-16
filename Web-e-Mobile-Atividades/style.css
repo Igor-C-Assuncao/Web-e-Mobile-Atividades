@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    border-style: groove;
+
+  }
+
+  h5 {
+    color: beige;
+  }
+  
+  ol {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px; 
+  }
+
