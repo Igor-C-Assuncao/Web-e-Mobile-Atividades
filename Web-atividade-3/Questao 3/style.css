@@ -8,7 +8,7 @@
 
 p .Hiperlinks  {
     font-weight: bold;
-    text-underline-position: unset;
+    text-decoration: none;
     font-family: 'Times New Roman', Times, serif;
     stroke: black;
 
