@@ -1,0 +1,29 @@
+
+header {
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+}
+.container {
+    display: flex;
+    padding: 20px;
+    
+}
+.produto {
+    background-color: green;
+    margin: 5px;
+    padding: 20px;
+    text-align: center;
+    width: 100px;
+    
+}
+.product img {
+    max-width: 100%;
+    height: auto;
+}
+footer {
+    background-color: gray;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}

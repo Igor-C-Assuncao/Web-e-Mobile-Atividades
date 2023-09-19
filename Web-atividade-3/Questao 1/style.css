@@ -1,0 +1,12 @@
+body {
+    background:  url("https://cdn.pixabay.com/photo/2023/08/15/05/37/lighthouse-8191282_1280.jpg") ;
+    background-size:auto;
+}
+    
+    h1{
+        border-color:  green;
+        border-width: 2px;
+        border-style: solid;
+        background-color: red;
+
+    }
