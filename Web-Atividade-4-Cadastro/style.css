@@ -1,22 +1,38 @@
 body {
     background-color: dimgray;
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 }
 
-
-div {
+.cadastros {
     background-color: darkgrey;
     width: 300px;
-    padding: 70px;
-    margin: 80px ;
-    
+    padding: 30px;
+  
 }
 
 header {
     background-color: gray;
-    
     text-align: center;
-    
-    padding: 30px;
-    
+    padding: 20px;
+   
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+
