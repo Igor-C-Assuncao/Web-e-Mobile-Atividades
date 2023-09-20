@@ -1,0 +1,22 @@
+body {
+    background-color: dimgray;
+    
+}
+
+
+div {
+    background-color: darkgrey;
+    width: 300px;
+    padding: 70px;
+    margin: 80px ;
+    
+}
+
+header {
+    background-color: gray;
+    
+    text-align: center;
+    
+    padding: 30px;
+    
+}
