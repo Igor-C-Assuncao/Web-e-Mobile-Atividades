@@ -13,6 +13,13 @@ body {
     padding: 30px;
   
 }
+.menuitem a {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    padding: 10px;
+    }
+    
 
 header {
     background-color: gray;

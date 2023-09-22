@@ -1,6 +1,7 @@
 body {
-    background:  url("https://cdn.pixabay.com/photo/2023/08/15/05/37/lighthouse-8191282_1280.jpg") ;
-    background-size:auto;
+    background: no-repeat url("https://cdn.pixabay.com/photo/2023/08/15/05/37/lighthouse-8191282_1280.jpg") ;
+    background-size: 100%;
+
 }
     
     h1{
