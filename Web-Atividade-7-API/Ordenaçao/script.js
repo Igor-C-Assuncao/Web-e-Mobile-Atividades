@@ -25,7 +25,7 @@ const ordenarPorNome = () => {
   lista.forEach((item) => listaPessoas.appendChild(item));
 };
 
-// Função para ordenar a lista por data de nascimento
+
 const ordenarPorDataNascimento = () => {
   const lista = Array.from(listaPessoas.children);
   lista.sort((a, b) => {
