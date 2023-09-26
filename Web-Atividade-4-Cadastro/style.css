@@ -14,6 +14,7 @@ body {
   
 }
 .menuitem a {
+    align-items: none;
     display: block;
     text-decoration: none;
     color: #000;
@@ -40,6 +41,7 @@ input[type="submit"] {
     padding: 10px;
     border: none;
     cursor: pointer;
+    
 }
 
 
